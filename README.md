@@ -16,6 +16,8 @@
     - A* (A-Star) Algorithm
     - Breadth-First Search (BFS)
     - Depth-First Search (DFS)
+    - Bi-Directional BFS
+    - Greedy Best-first Search
 
 - **Customizable Experience**
   - Adjust animation speed for better learning and observation.
