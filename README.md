@@ -1,5 +1,5 @@
 # Algorithm Path Visualizer 
-[Live Demo](https://path-explorer.netlify.app)  
+[Live Demo](https://algorithm-path-visualizer.netlify.app/)  
 
 ## Overview  
 **Algorithm-Path-Visualizer** is an interactive web application built with pure JavaScript that visualizes different pathfinding algorithms. It allows users to create custom mazes, observe how algorithms operate, and gain a clearer understanding of pathfinding processes in real-time.  
